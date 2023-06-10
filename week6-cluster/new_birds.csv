@@ -1,0 +1,444 @@
+,Name,category,family,genus,conservationStatus,aveWingLength,averageBodyMass,aveWingSpan
+0,Black-bellied whistling-duck,Ducks/Geese/Waterfowl,Anatidae,Dendrocygna,LC,85.0,836.0,85.0
+1,Fulvous whistling-duck,Ducks/Geese/Waterfowl,Anatidae,Dendrocygna,LC,89.0,881.0,89.0
+2,Snow goose,Ducks/Geese/Waterfowl,Anatidae,Anser,LC,150.0,3050.0,150.0
+3,Ross's goose,Ducks/Geese/Waterfowl,Anatidae,Anser,LC,114.5,1316.5,114.5
+4,Greater white-fronted goose,Ducks/Geese/Waterfowl,Anatidae,Anser,LC,147.5,2620.0,147.5
+5,Brant,Ducks/Geese/Waterfowl,Anatidae,Branta,LC,163.5,1540.0,163.5
+6,Cackling goose,Ducks/Geese/Waterfowl,Anatidae,Branta,LC,109.5,1889.0,109.5
+7,Canada goose,Ducks/Geese/Waterfowl,Anatidae,Branta,LC,156.0,4550.0,156.0
+8,Mute swan,Ducks/Geese/Waterfowl,Anatidae,Cygnus,LC,220.0,11750.0,220.0
+9,Trumpeter swan,Ducks/Geese/Waterfowl,Anatidae,Cygnus,LC,217.5,10300.0,217.5
+10,Tundra swan,Ducks/Geese/Waterfowl,Anatidae,Cygnus,LC,189.5,6500.0,189.5
+11,Wood duck,Ducks/Geese/Waterfowl,Anatidae,Aix,LC,69.5,658.0,69.5
+12,Garganey,Ducks/Geese/Waterfowl,Anatidae,Spatula,LC,63.5,350.0,63.5
+13,Blue-winged teal,Ducks/Geese/Waterfowl,Anatidae,Spatula,LC,58.0,370.0,58.0
+14,Cinnamon teal,Ducks/Geese/Waterfowl,Anatidae,Spatula,LC,56.0,400.0,56.0
+15,Northern shoveler,Ducks/Geese/Waterfowl,Anatidae,Spatula,LC,76.0,600.0,76.0
+16,Gadwall,Ducks/Geese/Waterfowl,Anatidae,Mareca,LC,84.0,920.0,84.0
+17,Eurasian wigeon,Ducks/Geese/Waterfowl,Anatidae,Mareca,LC,75.5,786.5,75.5
+18,American wigeon,Ducks/Geese/Waterfowl,Anatidae,Mareca,LC,73.5,921.0,73.5
+19,Mallard,Ducks/Geese/Waterfowl,Anatidae,Anas,LC,89.5,1150.0,89.5
+20,American black duck,Ducks/Geese/Waterfowl,Anatidae,Anas,LC,91.5,1180.0,91.5
+21,Mottled duck,Ducks/Geese/Waterfowl,Anatidae,Anas,LC,83.6,970.0,83.6
+22,Northern pintail,Ducks/Geese/Waterfowl,Anatidae,Anas,LC,87.5,905.0,87.5
+23,Green-winged teal,Ducks/Geese/Waterfowl,Anatidae,Anas,LC,56.0,320.0,56.0
+24,Canvasback,Ducks/Geese/Waterfowl,Anatidae,Aythya,LC,84.0,1231.0,84.0
+25,Redhead,Ducks/Geese/Waterfowl,Anatidae,Aythya,LC,84.0,1020.5,84.0
+26,Ring-necked duck,Ducks/Geese/Waterfowl,Anatidae,Aythya,LC,62.5,700.0,62.5
+27,Tufted duck,Ducks/Geese/Waterfowl,Anatidae,Aythya,LC,20.299999999999997,827.5,20.299999999999997
+28,Greater scaup,Ducks/Geese/Waterfowl,Anatidae,Aythya,LC,77.5,1043.0,77.5
+29,Lesser scaup,Ducks/Geese/Waterfowl,Anatidae,Aythya,LC,19.5,771.5,19.5
+30,King eider,Ducks/Geese/Waterfowl,Anatidae,Somateria,LC,94.0,1550.0,94.0
+31,Common eider,Ducks/Geese/Waterfowl,Anatidae,Somateria,NT,95.0,1925.0,95.0
+32,Harlequin duck,Ducks/Geese/Waterfowl,Anatidae,Histrionicus,LC,26.0,600.0,26.0
+33,Surf scoter,Ducks/Geese/Waterfowl,Anatidae,Melanitta,LC,76.5,1096.5,76.5
+34,White-winged scoter,Ducks/Geese/Waterfowl,Anatidae,Melanitta,LC,80.0,1539.0,80.0
+35,Black scoter,Ducks/Geese/Waterfowl,Anatidae,Melanitta,NT,71.0,950.0,71.0
+36,Long-tailed duck,Ducks/Geese/Waterfowl,Anatidae,Clangula,VU,71.0,740.0,71.0
+37,Bufflehead,Ducks/Geese/Waterfowl,Anatidae,Bucephala,LC,55.0,410.0,55.0
+38,Common goldeneye,Ducks/Geese/Waterfowl,Anatidae,Bucephala,LC,80.0,1000.0,80.0
+39,Barrow's goldeneye,Ducks/Geese/Waterfowl,Anatidae,Bucephala,LC,71.5,780.0,71.5
+40,Smew,Ducks/Geese/Waterfowl,Anatidae,Mergellus,LC,62.5,550.0,62.5
+41,Hooded merganser,Ducks/Geese/Waterfowl,Anatidae,Lophodytes,LC,63.0,666.0,63.0
+42,Common merganser,Ducks/Geese/Waterfowl,Anatidae,Mergus,LC,87.5,1500.0,87.5
+43,Red-breasted merganser,Ducks/Geese/Waterfowl,Anatidae,Mergus,LC,78.0,1075.0,78.0
+44,Ruddy duck,Ducks/Geese/Waterfowl,Anatidae,Oxyura,LC,47.0,560.0,47.0
+45,Northern bobwhite,New World quail,Odontophoridae,Colinus,NT,35.5,151.0,35.5
+46,Wild turkey,Pheasants/Grouse/Allies,Phasianidae,Meleagris,LC,134.5,6650.0,134.5
+47,Ruffed grouse,Pheasants/Grouse/Allies,Phasianidae,Bonasa,LC,57.0,600.0,57.0
+48,Spruce grouse,Pheasants/Grouse/Allies,Phasianidae,Falcipennis,LC,56.0,550.0,56.0
+49,Willow ptarmigan,Pheasants/Grouse/Allies,Phasianidae,Lagopus,LC,62.5,620.0,62.5
+50,Rock ptarmigan,Pheasants/Grouse/Allies,Phasianidae,Lagopus,LC,57.0,540.0,57.0
+51,Sharp-tailed grouse,Pheasants/Grouse/Allies,Phasianidae,Tympanuchus,LC,63.5,738.0,63.5
+52,Greater prairie-chicken,Pheasants/Grouse/Allies,Phasianidae,Tympanuchus,VU,71.0,950.0,71.0
+53,Gray partridge,Pheasants/Grouse/Allies,Phasianidae,Perdix,LC,54.5,442.5,54.5
+54,Ring-necked pheasant,Pheasants/Grouse/Allies,Phasianidae,Phasianus,LC,71.0,1750.0,71.0
+55,Pied-billed grebe,Grebes,Podicipedidae,Podilymbus,LC,53.5,410.5,53.5
+56,Horned grebe,Grebes,Podicipedidae,Podiceps,VU,64.5,435.0,64.5
+57,Red-necked grebe,Grebes,Podicipedidae,Podiceps,LC,81.0,808.5,81.0
+58,Eared grebe,Grebes,Podicipedidae,Podiceps,LC,53.5,357.5,53.5
+59,Western grebe,Grebes,Podicipedidae,Aechmophorus,LC,90.5,1397.5,90.5
+60,Clark's grebe,Grebes,Podicipedidae,Aechmophorus,LC,24.0,988.0,24.0
+61,Rock pigeon,Pigeons/Doves,Columbidae,Columba,LC,67.0,309.0,67.0
+62,Band-tailed pigeon,Pigeons/Doves,Columbidae,Patagioenas,LC,26.0,370.0,26.0
+63,Eurasian collared-dove,Pigeons/Doves,Columbidae,Streptopelia,LC,51.0,182.5,51.0
+64,Passenger pigeon,Pigeons/Doves,Columbidae,Ectopistes,EX,19.75,300.0,19.75
+65,Inca dove,Pigeons/Doves,Columbidae,Columbina,LC,30.25,44.0,30.25
+66,Common ground dove,Pigeons/Doves,Columbidae,Columbina,LC,27.0,33.0,27.0
+67,White-winged dove,Pigeons/Doves,Columbidae,Zenaida,LC,53.0,150.0,53.0
+68,Mourning dove,Pigeons/Doves,Columbidae,Zenaida,LC,41.0,141.0,41.0
+69,Groove-billed ani,Cuckoos,Cuculidae,Crotophaga,LC,43.5,80.0,43.5
+70,Black-billed cuckoo,Cuckoos,Cuculidae,Cuculidae,LC,44.0,50.0,44.0
+71,Yellow-billed cuckoo,Cuckoos,Cuculidae,Coccyzus,LC,40.5,60.0,40.5
+72,Common nighthawk,Nightjars/Allies,Caprimulgidae,Chordeiles,LC,56.0,76.5,56.0
+73,Common poorwill,Nightjars/Allies,Caprimulgidae,Phalaenoptilus,LC,30.0,47.0,30.0
+74,Chuck-will's-widow,Nightjars/Allies,Caprimulgidae,Antrostomus,NT,62.0,127.0,62.0
+75,Eastern whip-poor-will,Nightjars/Allies,Caprimulgidae,Antrostomus,NT,47.5,55.5,47.5
+76,Chimney swift,Swifts,Apodidae,Chaetura,VU,28.5,23.5,28.5
+77,White-throated swift,Swifts,Apodidae,Aeronautes,LC,35.5,32.0,35.5
+78,Mexican violetear,Hummingbirds,Trochilidae,Colibri,LC,12.0,5.199999999999999,12.0
+79,Rivoli's hummingbird,Hummingbirds,Trochilidae,Eugenes,LC,18.0,8.0,18.0
+80,Ruby-throated hummingbird,Hummingbirds,Trochilidae,Archilochus,LC,9.5,4.0,9.5
+81,Anna's hummingbird,Hummingbirds,Trochilidae,Calypte,LC,12.0,4.5,12.0
+82,Costa's hummingbird,Hummingbirds,Trochilidae,Calypte,LC,11.0,3.135,11.0
+83,Calliope hummingbird,Hummingbirds,Trochilidae,Selasphorus,LC,11.0,2.5,11.0
+84,Rufous hummingbird,Hummingbirds,Trochilidae,Selasphorus,NT,11.0,3.5,11.0
+85,King rail,Rails/Gallinules/Coots,Rallidae,Rallus,NT,48.0,290.0,48.0
+86,Virginia rail,Rails/Gallinules/Coots,Rallidae,Rallus,LC,35.0,80.0,35.0
+87,Sora,Rails/Gallinules/Coots,Rallidae,Porzana,LC,37.5,80.5,37.5
+88,Common gallinule,Rails/Gallinules/Coots,Rallidae,Gallinula,LC,58.0,383.0,58.0
+89,American coot,Rails/Gallinules/Coots,Rallidae,Fulica,LC,64.5,637.5,64.5
+90,Purple gallinule,Rails/Gallinules/Coots,Rallidae,Porphyrio,LC,55.5,223.0,55.5
+91,Yellow rail,Rails/Gallinules/Coots,Rallidae,Cotorunicops,LC,30.0,54.5,30.0
+92,Black rail,Rails/Gallinules/Coots,Rallidae,Laterallus,EN,25.0,34.0,25.0
+93,Sandhill crane,Cranes,Gruidae,Antigone,LC,200.0,4295.0,200.0
+94,Whooping crane,Cranes,Gruidae,Grus,EN,215.0,6500.0,215.0
+95,Black-necked stilt,Stilts and avocets,Recurvirostridae,Himantopus,LC,73.5,163.0,73.5
+96,American avocet,Stilts and avocets,Recurvirostridae,Recurvirostra,LC,72.0,347.5,72.0
+97,Black-bellied plover,Plovers/Lapwings,Charadriidae,Pluvialis,LC,77.0,235.0,77.0
+98,American golden-plover,Plovers/Lapwings,Charadriidae,Pluvialis,LC,66.0,158.0,66.0
+99,Killdeer,Plovers/Lapwings,Charadriidae,Charadrius,LC,61.0,96.5,61.0
+100,Semipalmated plover,Plovers/Lapwings,Charadriidae,Charadrius,LC,45.5,42.5,45.5
+101,Piping plover,Plovers/Lapwings,Charadriidae,Charadrius,NT,38.0,53.0,38.0
+102,Wilson's plover,Plovers/Lapwings,Charadriidae,Charadrius,LC,48.2,62.5,48.2
+103,Snowy plover,Plovers/Lapwings,Charadriidae,Charadrius,NT,38.6,45.25,38.6
+104,Upland sandpiper,Sandpipers/Allies,Scolopacidae,Bartramia,LC,66.0,170.0,66.0
+105,Whimbrel,Sandpipers/Allies,Scolopacidae,Numenius,LC,82.5,381.5,82.5
+106,Eskimo curlew,Sandpipers/Allies,Scolopacidae,Numenius,CR,70.0,360.0,70.0
+107,Long-billed curlew,Sandpipers/Allies,Scolopacidae,Numenius,LC,76.0,720.0,76.0
+108,Hudsonian godwit,Sandpipers/Allies,Scolopacidae,Limosa,LC,74.0,300.0,74.0
+109,Marbled godwit,Sandpipers/Allies,Scolopacidae,Limosa,LC,79.0,375.0,79.0
+110,Ruddy turnstone,Sandpipers/Allies,Scolopacidae,Arenaria,LC,53.5,117.5,53.5
+111,Red knot,Sandpipers/Allies,Scolopacidae,Calidris,NT,50.0,150.0,50.0
+112,Ruff,Sandpipers/Allies,Scolopacidae,Calidris,LC,57.0,180.0,57.0
+113,Sharp-tailed sandpiper,Sandpipers/Allies,Scolopacidae,Calidris,LC,39.5,76.5,39.5
+114,Stilt sandpiper,Sandpipers/Allies,Scolopacidae,Calidris,LC,39.5,60.0,39.5
+115,Curlew sandpiper,Sandpipers/Allies,Scolopacidae,Calidris,NT,39.5,80.5,39.5
+116,Sanderling,Sandpipers/Allies,Scolopacidae,Calidris,LC,43.0,60.0,43.0
+117,Dunlin,Sandpipers/Allies,Scolopacidae,Calidris,LC,37.0,62.300000000000004,37.0
+118,Purple sandpiper,Sandpipers/Allies,Scolopacidae,Calidris,LC,44.0,77.5,44.0
+119,Baird's sandpiper,Sandpipers/Allies,Scolopacidae,Calidris,LC,43.0,38.0,43.0
+120,Least sandpiper,Sandpipers/Allies,Scolopacidae,Calidris,LC,27.5,24.5,27.5
+121,White-rumped sandpiper,Sandpipers/Allies,Scolopacidae,Calidris,LC,43.0,42.0,43.0
+122,Buff-breasted sandpiper,Sandpipers/Allies,Scolopacidae,Calidris,NT,46.0,63.0,46.0
+123,Pectoral sandpiper,Sandpipers/Allies,Scolopacidae,Calidris,LC,46.0,73.0,46.0
+124,Semipalmated sandpiper,Sandpipers/Allies,Scolopacidae,Calidris,NT,46.0,26.0,46.0
+125,Western sandpiper,Sandpipers/Allies,Scolopacidae,Calidris,LC,36.0,28.5,36.0
+126,Short-billed dowitcher,Sandpipers/Allies,Scolopacidae,Limnodromus,LC,51.0,114.0,51.0
+127,Long-billed dowitcher,Sandpipers/Allies,Scolopacidae,Limnodromus,LC,48.0,109.5,48.0
+128,American woodcock,Sandpipers/Allies,Scolopacidae,Scolopax,LC,45.0,185.0,45.0
+129,Wilson's snipe,Sandpipers/Allies,Scolopacidae,Gallinago,LC,42.0,111.0,42.0
+130,Spotted sandpiper,Sandpipers/Allies,Scolopacidae,Actitis,LC,38.5,42.0,38.5
+131,Solitary sandpiper,Sandpipers/Allies,Scolopacidae,Tringa,LC,50.0,48.0,50.0
+132,Lesser yellowlegs,Sandpipers/Allies,Scolopacidae,Tringa,LC,61.5,85.2,61.5
+133,Willet,Sandpipers/Allies,Scolopacidae,Tringa,LC,70.0,265.0,70.0
+134,Greater yellowlegs,Sandpipers/Allies,Scolopacidae,Tringa,LC,60.0,180.5,60.0
+135,Wilson's phalarope,Sandpipers/Allies,Scolopacidae,Phalaropus,LC,41.0,74.0,41.0
+136,Red-necked phalarope,Sandpipers/Allies,Scolopacidae,Phalaropus,LC,38.0,35.0,38.0
+137,Red phalarope,Sandpipers/Allies,Scolopacidae,Phalaropus,LC,43.0,55.0,43.0
+138,Pomarine jaeger,Skuas and jaegers,Stercorariidae,Stercorarius,LC,124.0,730.0,124.0
+139,Parasitic jaeger,Skuas and jaegers,Stercorariidae,Stercorarius,LC,116.0,475.0,116.0
+140,Long-tailed jaeger,Skuas and jaegers,Stercorariidae,Stercorarius,LC,109.5,337.0,109.5
+141,Dovekie,Auks/Murres/Puffins,Alcidae,Alle,LC,36.0,169.0,36.0
+142,Black guillemot,Auks/Murres/Puffins,Alcidae,Cepphus,LC,55.0,380.0,55.0
+143,Long-billed murrelet,Auks/Murres/Puffins,Alcidae,Brachyramphus,NT,43.0,260.0,43.0
+144,Ancient murrelet,Auks/Murres/Puffins,Alcidae,Synthliboramphus,LC,45.5,201.5,45.5
+145,Black-legged kittiwake,Gulls/Terns/Skimmers,Laridae,Rissa,VU,98.0,415.0,98.0
+146,Ivory gull,Gulls/Terns/Skimmers,Laridae,Pagophila,NT,114.0,567.5,114.0
+147,Sabine's gull,Gulls/Terns/Skimmers,Laridae,Xema,LC,84.0,180.0,84.0
+148,Bonaparte's gull,Gulls/Terns/Skimmers,Laridae,Chroicocephalus,LC,80.0,202.5,80.0
+149,Black-headed gull,Gulls/Terns/Skimmers,Laridae,Chroicocephalus,LC,99.5,295.0,99.5
+150,Little gull,Gulls/Terns/Skimmers,Laridae,Hydrocoloeus,LC,69.5,115.0,69.5
+151,Ross's gull,Gulls/Terns/Skimmers,Laridae,Rhodostethia,LC,95.0,195.0,95.0
+152,Laughing gull,Gulls/Terns/Skimmers,Laridae,Leucophaeus,LC,104.0,287.0,104.0
+153,Franklin's gull,Gulls/Terns/Skimmers,Laridae,Leucophaeus,LC,90.0,265.0,90.0
+154,Mew gull,Gulls/Terns/Skimmers,Laridae,Larus,LC,110.5,438.0,110.5
+155,Ring-billed gull,Gulls/Terns/Skimmers,Laridae,Larus,LC,111.0,500.0,111.0
+156,California gull,Gulls/Terns/Skimmers,Laridae,Larus,LC,129.5,737.5,129.5
+157,Herring gull,Gulls/Terns/Skimmers,Laridae,Larus,LC,137.5,1125.0,137.5
+158,Iceland gull,Gulls/Terns/Skimmers,Laridae,Larus,LC,132.5,790.0,132.5
+159,Lesser black-backed gull,Gulls/Terns/Skimmers,Laridae,Larus,LC,137.0,776.0,137.0
+160,Slaty-backed gull,Gulls/Terns/Skimmers,Laridae,Larus,LC,57.5,1375.0,57.5
+161,Glaucous-winged gull,Gulls/Terns/Skimmers,Laridae,Larus,LC,135.0,1210.0,135.0
+162,Glaucous gull,Gulls/Terns/Skimmers,Laridae,Larus,LC,151.0,1830.0,151.0
+163,Great black-backed gull,Gulls/Terns/Skimmers,Laridae,Larus,LC,160.0,1525.0,160.0
+164,Least tern,Gulls/Terns/Skimmers,Laridae,Sternula,LC,50.0,45.5,50.0
+165,Gull-billed tern,Gulls/Terns/Skimmers,Laridae,Gelochelidon,LC,83.5,221.0,83.5
+166,Caspian tern,Gulls/Terns/Skimmers,Laridae,Hydroprogne,LC,136.0,656.0,136.0
+167,Black tern,Gulls/Terns/Skimmers,Laridae,Childonias,LC,61.0,62.0,61.0
+168,Common tern,Gulls/Terns/Skimmers,Laridae,Sterna,LC,87.5,125.5,87.5
+169,Arctic tern,Gulls/Terns/Skimmers,Laridae,Sterna,LC,70.0,106.5,70.0
+170,Forster's tern,Gulls/Terns/Skimmers,Laridae,Sterna,LC,67.0,160.0,67.0
+171,Sandwich tern,Gulls/Terns/Skimmers,Laridae,Thalasseus,LC,91.0,240.0,91.0
+172,Elegant tern,Gulls/Terns/Skimmers,Laridae,Thalasseus,NT,78.5,257.5,78.5
+173,Red-throated loon,Loons,Gaviidae,Gavia,LC,105.5,1850.0,105.5
+174,Pacific loon,Loons,Gaviidae,Gavia,LC,119.0,1750.0,119.0
+175,Common loon,Loons,Gaviidae,Gavia,LC,137.0,4900.0,137.0
+176,Yellow-billed loon,Loons,Gaviidae,Gavia,NT,147.5,5200.0,147.5
+177,Northern fulmar,Shearwaters and petrels,Procellariidae,Fulmarus,LC,107.0,725.0,107.0
+178,Wood stork,Storks,Ciconiidae,Mycteria,LC,160.0,2650.0,160.0
+179,Magnificent frigatebird,Frigatebirds,Fregatidae,Fregata,LC,230.5,1345.0,230.5
+180,Double-crested cormorant,Cormorants/Shags,Phalacrocoracidae,Phalacrocorax,LC,118.5,1850.0,118.5
+181,Neotropic cormorant,Cormorants/Shags,Phalacrocoracidae,Phalacrocorax,LC,100.0,1250.0,100.0
+182,American white pelican,Pelicans,Pelecanidae,Pelecanus,LC,270.0,8550.0,270.0
+183,Brown pelican,Pelicans,Pelecanidae,Pelecanus,LC,215.5,3500.0,215.5
+184,American bittern,Herons/Egrets/Bitterns,Ardeidae,Botarus,LC,103.5,721.0,103.5
+185,Least bittern,Herons/Egrets/Bitterns,Ardeidae,Ixobrychus,LC,43.5,76.5,43.5
+186,Great blue heron,Herons/Egrets/Bitterns,Ardeidae,Ardea,LC,184.0,2710.0,184.0
+187,Great egret,Herons/Egrets/Bitterns,Ardeidae,Ardea,LC,150.5,1100.0,150.5
+188,Snowy egret,Herons/Egrets/Bitterns,Ardeidae,Egretta,LC,100.0,370.0,100.0
+189,Little blue heron,Herons/Egrets/Bitterns,Ardeidae,Egretta,LC,102.0,325.0,102.0
+190,Tricolored heron,Herons/Egrets/Bitterns,Ardeidae,Egretta,LC,96.0,379.5,96.0
+191,Cattle egret,Herons/Egrets/Bitterns,Ardeidae,Bubulcus,LC,92.0,391.0,92.0
+192,Green heron,Herons/Egrets/Bitterns,Ardeidae,Butorides,LC,66.0,240.0,66.0
+193,Black-crowned night-heron,Herons/Egrets/Bitterns,Ardeidae,Nycticorax,LC,116.5,870.5,116.5
+194,Yellow-crowned night-heron,Herons/Egrets/Bitterns,Ardeidae,Nyctsnassa,LC,106.5,750.0,106.5
+195,White ibis,Ibises/Spoonbills,Threskiornithidae,Eudocimus,LC,97.5,926.85,97.5
+196,Glossy ibis,Ibises/Spoonbills,Threskiornithidae,Plegadis,LC,92.5,727.5,92.5
+197,White-faced ibis,Ibises/Spoonbills,Threskiornithidae,Plegadis,LC,91.5,487.5,91.5
+198,Roseate spoonbill,Ibises/Spoonbills,Threskiornithidae,Platalea,LC,126.5,1500.0,126.5
+199,Black vulture,New World vultures,Cathartidae,Coragyps,LC,150.0,2300.0,150.0
+200,Turkey vulture,New World vultures,Cathartidae,Cathartes,LC,171.5,1605.0,171.5
+201,Osprey,Osprey,Pandionidae,Pandion,LC,153.5,1500.0,153.5
+202,White-tailed kite,Hawks/Eagles,Accipitridae,Elanus,LC,95.0,315.0,95.0
+203,Swallow-tailed kite,Hawks/Eagles,Accipitridae,Elanoides,LC,124.0,455.0,124.0
+204,Golden eagle,Hawks/Eagles,Accipitridae,Aquila,LC,207.0,4425.0,207.0
+205,Northern harrier,Hawks/Eagles,Accipitridae,Circus,LC,109.5,520.0,109.5
+206,Sharp-shinned hawk,Hawks/Eagles,Accipitridae,Accipiter,LC,55.0,150.5,55.0
+207,Cooper's hawk,Hawks/Eagles,Accipitridae,Accipiter,LC,80.5,458.0,80.5
+208,Northern goshawk,Hawks/Eagles,Accipitridae,Accipiter,LC,108.0,778.5,108.0
+209,Bald eagle,Hawks/Eagles,Accipitridae,Haliaeetus,LC,2050.0,4650.0,2050.0
+210,Mississippi kite,Hawks/Eagles,Accipitridae,Ictinia,LC,91.0,301.0,91.0
+211,Red-shouldered hawk,Hawks/Eagles,Accipitridae,Buteo,LC,108.5,695.0,108.5
+212,Broad-winged hawk,Hawks/Eagles,Accipitridae,Buteo,LC,87.0,412.5,87.0
+213,Swainson's hawk,Hawks/Eagles,Accipitridae,Buteo,LC,127.0,1100.0,127.0
+214,Red-tailed hawk,Hawks/Eagles,Accipitridae,Buteo,LC,125.5,1145.0,125.5
+215,Rough-legged hawk,Hawks/Eagles,Accipitridae,Buteo,LC,136.5,1130.0,136.5
+216,Ferruginous hawk,Hawks/Eagles,Accipitridae,Buteo,LC,137.0,1587.5,137.0
+217,Barn owl,Barn-owls,Tytonidae,Tyto,LC,87.5,467.0,87.5
+218,Eastern screech-owl,Owls,Strigidae,Megascops,LC,53.5,182.5,53.5
+219,Great horned owl,Owls,Strigidae,Bubo,LC,122.0,1705.0,122.0
+220,Snowy owl,Owls,Strigidae,Bubo,VU,140.8,2125.5,140.8
+221,Northern hawk owl,Owls,Strigidae,Surnia,LC,45.0,300.0,45.0
+222,Burrowing owl,Owls,Strigidae,Athene,LC,55.9,190.0,55.9
+223,Barred owl,Owls,Strigidae,Strix,LC,110.5,809.0,110.5
+224,Great gray owl,Owls,Strigidae,Strix,LC,141.0,1240.0,141.0
+225,Long-eared owl,Owls,Strigidae,Asio,LC,94.0,297.5,94.0
+226,Short-eared owl,Owls,Strigidae,Asio,LC,97.5,340.5,97.5
+227,Boreal owl,Owls,Strigidae,Aegolius,LC,56.0,154.0,56.0
+228,Northern saw-whet owl,Owls,Strigidae,Aegolius,LC,49.15,102.5,49.15
+229,Belted kingfisher,Kingfishers,Alcedinidae,Megaceryle,LC,53.0,145.5,53.0
+230,Lewis's woodpecker,Woodpeckers,Picidae,Melanerpes,LC,50.5,113.0,50.5
+231,Red-headed woodpecker,Woodpeckers,Picidae,Melanerpes,LC,42.5,76.5,42.5
+232,Acorn woodpecker,Woodpeckers,Picidae,Melanerpes,LC,39.0,77.5,39.0
+233,Red-bellied woodpecker,Woodpeckers,Picidae,Melanerpes,LC,42.0,73.5,42.0
+234,Williamson's sapsucker,Woodpeckers,Picidae,Sphyrapicus,LC,43.0,49.5,43.0
+235,Yellow-bellied sapsucker,Woodpeckers,Picidae,Sphyrapicus,LC,37.0,48.5,37.0
+236,American three-toed woodpecker,Woodpeckers,Picidae,Picoides,LC,38.0,55.0,38.0
+237,Black-backed woodpecker,Woodpeckers,Picidae,Picoides,LC,41.0,74.5,41.0
+238,Downy woodpecker,Woodpeckers,Picidae,Dryobates,LC,28.0,26.5,28.0
+239,Hairy woodpecker,Woodpeckers,Picidae,Leuconotopicus,LC,38.0,67.5,38.0
+240,Northern flicker,Woodpeckers,Picidae,Colaptes,LC,48.0,126.5,48.0
+241,Pileated woodpecker,Woodpeckers,Picidae,Dryocopus,LC,70.5,325.0,70.5
+242,Crested caracara,Falcons /Caracaras,Falconidae,Caracara,LC,125.0,1044.0,125.0
+243,American kestrel,Falcons /Caracaras,Falconidae,Falco,LC,56.0,122.5,56.0
+244,Merlin,Falcons /Caracaras,Falconidae,Falco,LC,61.5,167.5,61.5
+245,Gyrfalcon,Falcons /Caracaras,Falconidae,Hierofalco,LC,135.0,1452.5,135.0
+246,Peregrine falcon,Falcons /Caracaras,Falconidae,Falco,LC,97.0,915.0,97.0
+247,Prairie falcon,Falcons /Caracaras,Falconidae,Falco,LC,1100.0,735.0,1100.0
+248,Ash-throated flycatcher,Tyrant flycatchers,Tyrannidae,Myiarchus,LC,31.0,28.5,31.0
+249,Great crested flycatcher,Tyrant flycatchers,Tyrannidae,Myiarchus,LC,34.0,33.5,34.0
+250,Tropical kingbird,Tyrant flycatchers,Tyrannidae,Tyrannus,LC,39.5,39.0,39.5
+251,Cassin's kingbird,Tyrant flycatchers,Tyrannidae,Tyrannus,LC,41.0,45.0,41.0
+252,Western kingbird,Tyrant flycatchers,Tyrannidae,Tyrannus,LC,39.0,40.0,39.0
+253,Eastern kingbird,Tyrant flycatchers,Tyrannidae,Tyrannus,LC,35.5,44.0,35.5
+254,Scissor-tailed flycatcher,Tyrant flycatchers,Tyrannidae,Tyrannus,LC,15.0,43.0,15.0
+255,Fork-tailed flycatcher,Tyrant flycatchers,Tyrannidae,Tyrannus,LC,38.0,30.0,38.0
+256,Olive-sided flycatcher,Tyrant flycatchers,Tyrannidae,Contopus,NT,33.0,34.2,33.0
+257,Western wood-pewee,Tyrant flycatchers,Tyrannidae,Contopus,LC,26.0,12.5,26.0
+258,Eastern wood-pewee,Tyrant flycatchers,Tyrannidae,Contopus,LC,24.5,14.0,24.5
+259,Yellow-bellied flycatcher,Tyrant flycatchers,Tyrannidae,Empidonax,LC,19.0,12.5,19.0
+260,Acadian flycatcher,Tyrant flycatchers,Tyrannidae,Empidonax,LC,22.5,12.5,22.5
+261,Alder flycatcher,Tyrant flycatchers,Tyrannidae,Empidonax,LC,22.5,13.0,22.5
+262,Willow flycatcher,Tyrant flycatchers,Tyrannidae,Empidonax,LC,22.0,13.5,22.0
+263,Least flycatcher,Tyrant flycatchers,Tyrannidae,Empidonax,LC,20.5,10.3,20.5
+264,Eastern phoebe,Tyrant flycatchers,Tyrannidae,Sayornis,LC,27.0,18.5,27.0
+265,Say's phoebe,Tyrant flycatchers,Tyrannidae,Sayornis,LC,33.0,21.0,33.0
+266,Vermilion flycatcher,Tyrant flycatchers,Tyrannidae,Pyrocephalus,LC,24.5,12.5,24.5
+267,Loggerhead shrike,Shrikes,Laniidae,Lanius,NT,30.0,42.5,30.0
+268,Northern shrike,Shrikes,Laniidae,Lanius,LC,32.5,67.5,32.5
+269,White-eyed vireo,Vireos/Shrike-babblers/Erpornis,Vireonidae,Vireo,LC,17.0,12.0,17.0
+270,Bell's vireo,Vireos/Shrike-babblers/Erpornis,Vireonidae,Vireo,LC,18.0,8.600000000000001,18.0
+271,Yellow-throated vireo,Vireos/Shrike-babblers/Erpornis,Vireonidae,Vireo,LC,23.0,18.0,23.0
+272,Blue-headed vireo,Vireos/Shrike-babblers/Erpornis,Vireonidae,Vireo,LC,22.0,16.0,22.0
+273,Philadelphia vireo,Vireos/Shrike-babblers/Erpornis,Vireonidae,Vireo,LC,20.0,12.0,20.0
+274,Warbling vireo,Vireos/Shrike-babblers/Erpornis,Vireonidae,Vireo,LC,22.0,13.0,22.0
+275,Red-eyed vireo,Vireos/Shrike-babblers/Erpornis,Vireonidae,Vireo,LC,24.0,19.0,24.0
+276,Canada jay,Crows/Jays/Magpies,Corvidae,Perisoreus,LC,45.0,67.5,45.0
+277,Blue jay,Crows/Jays/Magpies,Corvidae,Cyanocitta,LC,38.5,85.0,38.5
+278,Clark's nutcracker,Crows/Jays/Magpies,Corvidae,Nucifraga,LC,46.0,133.5,46.0
+279,Black-billed magpie,Crows/Jays/Magpies,Corvidae,Pica,LC,19.7,178.5,19.7
+280,American crow,Crows/Jays/Magpies,Corvidae,Corvus,LC,92.5,468.0,92.5
+281,Common raven,Crows/Jays/Magpies,Corvidae,Corvus,LC,132.5,1345.0,132.5
+282,Horned lark,Larks,Alaudidae,Eremophila,LC,32.0,38.0,32.0
+283,Bank swallow,Swallows,Hirundinidae,Riparia,LC,29.0,14.5,29.0
+284,Tree swallow,Swallows,Hirundinidae,Tachycineta,LC,32.5,21.25,32.5
+285,Violet-green swallow,Swallows,Hirundinidae,Tachycineta,LC,10.6,14.15,10.6
+286,Northern rough-winged swallow,Swallows,Hirundinidae,Stelgidopteryx,LC,28.5,14.0,28.5
+287,Purple martin,Swallows,Hirundinidae,Progne,LC,40.0,52.5,40.0
+288,Barn swallow,Swallows,Hirundinidae,Hirundo,LC,33.25,19.0,33.25
+289,Cliff swallow,Swallows,Hirundinidae,Petrochelidon,LC,30.5,25.0,30.5
+290,Black-capped chickadee,Tits/Chickadees/Titmice,Paridae,Poecile,LC,18.5,11.5,18.5
+291,Boreal chickadee,Tits/Chickadees/Titmice,Paridae,Poecile,LC,21.0,10.0,21.0
+292,Tufted titmouse,Tits/Chickadees/Titmice,Paridae,Baeolophus,LC,23.0,22.0,23.0
+293,Red-breasted nuthatch,Nuthatches,Sittidae,Sitta,LC,22.0,9.9,22.0
+294,White-breasted nuthatch,Nuthatches,Sittidae,Sitta,LC,23.5,24.0,23.5
+295,Pygmy nuthatch,Nuthatches,Sittidae,Sitta,LC,19.7,10.0,19.7
+296,Brown creeper,Treecreepers,Certhiidae,Certhia,LC,18.5,7.5,18.5
+297,Rock wren,Wrens,Troglodytidae,Salpinctes,LC,23.0,16.5,23.0
+298,House wren,Wrens,Troglodytidae,Troglodytes,LC,15.0,11.0,15.0
+299,Winter wren,Wrens,Troglodytidae,Nannus,LC,14.0,10.0,14.0
+300,Sedge wren,Wrens,Troglodytidae,Cistothorus,LC,13.0,8.5,13.0
+301,Marsh wren,Wrens,Troglodytidae,Cistothorus,LC,15.0,11.5,15.0
+302,Carolina wren,Wrens,Troglodytidae,Thryothorus,LC,29.0,20.5,29.0
+303,Bewick's wren,Wrens,Troglodytidae,Thryomanes,LC,18.0,10.0,18.0
+304,Blue-gray gnatcatcher,Gnatcatchers,Polioptilidae,Polioptila,LC,16.0,6.0,16.0
+305,American dipper,Dippers,Cinclidae,Cinclus,LC,23.0,46.0,23.0
+306,Golden-crowned kinglet,Kinglets,Regulidae,Regulus,LC,16.0,5.9,16.0
+307,Ruby-crowned kinglet,Kinglets,Regulidae,Regulus,LC,10.0,7.5,10.0
+308,Northern wheatear,Old World flycatchers,Muscicapidae,Oenanthe,LC,29.0,23.5,29.0
+309,Eastern bluebird,Thrushes/Allies,Turdidae,Sialia,LC,28.5,30.5,28.5
+310,Mountain bluebird,Thrushes/Allies,Turdidae,Sialia,LC,32.0,30.5,32.0
+311,Townsend's solitaire,Thrushes/Allies,Turdidae,Myadestes,LC,37.0,34.0,37.0
+312,Veery,Thrushes/Allies,Turdidae,Catharus,LC,28.5,32.5,28.5
+313,Gray-cheeked thrush,Thrushes/Allies,Turdidae,Catharus,LC,33.0,28.0,33.0
+314,Swainson's thrush,Thrushes/Allies,Turdidae,Catharus,LC,30.0,34.0,30.0
+315,Hermit thrush,Thrushes/Allies,Turdidae,Catharus,LC,27.5,27.5,27.5
+316,Wood thrush,Thrushes/Allies,Turdidae,Hylocichla,NT,35.0,60.0,35.0
+317,Fieldfare,Thrushes/Allies,Turdidae,Turdus,LC,40.5,110.0,40.5
+318,American robin,Thrushes/Allies,Turdidae,Turdus,LC,36.0,76.5,36.0
+319,Varied thrush,Thrushes/Allies,Turdidae,Ixoreus,LC,38.0,82.5,38.0
+320,Gray catbird,Mockingbirds/Thrashers,Mimidae,Dumetella,LC,26.0,39.85,26.0
+321,Curve-billed thrasher,Mockingbirds/Thrashers,Mimidae,Toxostoma,LC,34.25,77.19999999999999,34.25
+322,Brown thrasher,Mockingbirds/Thrashers,Mimidae,Toxostoma,LC,31.0,75.0,31.0
+323,Sage thrasher,Mockingbirds/Thrashers,Mimidae,Oreoscoptes,LC,32.0,45.0,32.0
+324,Northern mockingbird,Mockingbirds/Thrashers,Mimidae,Mimus,LC,34.5,49.0,34.5
+325,European starling,Starlings,Sturnidae,Sturnus,LC,37.5,79.5,37.5
+326,Bohemian waxwing,Waxwings,Bombycillidae,Bombycilla,LC,33.75,55.0,33.75
+327,Cedar waxwing,Waxwings,Bombycillidae,Bombycilla,LC,26.0,30.0,26.0
+328,House sparrow,Old World sparrows,Passeridae,Passer,LC,22.0,26.75,22.0
+329,Eurasian tree sparrow,Old World sparrows,Passeridae,Passer,LC,21.0,24.0,21.0
+330,American pipit,Wagtails/Pitpits,Motacillidae,Anthus,LC,24.0,22.0,24.0
+331,Sprague's pipit,Wagtails/Pitpits,Motacillidae,Anthus,VU,25.4,22.6,25.4
+332,Brambling,Finches/Euphonias/Allies,Fringillidae,Fringilla,LC,25.5,26.0,25.5
+333,Evening grosbeak,Finches/Euphonias/Allies,Fringillidae,Coccothraustes,VU,33.0,62.4,33.0
+334,Pine grosbeak,Finches/Euphonias/Allies,Fringillidae,Carduelinae,LC,33.0,65.0,33.0
+335,Gray-crowned rosy-finch,Finches/Euphonias/Allies,Fringillidae,Leucosticte,LC,33.0,41.0,33.0
+336,House finch,Finches/Euphonias/Allies,Fringillidae,Haemorhous,LC,22.5,21.5,22.5
+337,Purple finch,Finches/Euphonias/Allies,Fringillidae,Haemorhous,LC,24.0,25.0,24.0
+338,Cassin's finch,Finches/Euphonias/Allies,Fringillidae,Haemorhous,LC,26.0,29.0,26.0
+339,Common redpoll,Finches/Euphonias/Allies,Fringillidae,Acanthis,LC,20.5,14.0,20.5
+340,Hoary redpoll,Finches/Euphonias/Allies,Fringillidae,Acanthis,LC,22.5,14.0,22.5
+341,Red crossbill,Finches/Euphonias/Allies,Fringillidae,Loxia,LC,28.0,46.5,28.0
+342,White-winged crossbill,Finches/Euphonias/Allies,Fringillidae,Loxia,LC,27.5,35.0,27.5
+343,Pine siskin,Finches/Euphonias/Allies,Fringillidae,Spinus,LC,20.0,15.0,20.0
+344,American goldfinch,Finches/Euphonias/Allies,Fringillidae,Spinus,LC,20.5,15.5,20.5
+345,Lapland longspur,Longspurs/Snow buntings,Calcariidae,Calcarius,LC,25.5,27.700000000000003,25.5
+346,Chestnut-collared longspur,Longspurs/Snow buntings,Calcariidae,Calcarius,VU,26.0,20.0,26.0
+347,Smith's longspur,Longspurs/Snow buntings,Calcariidae,Calcarius,LC,25.0,26.0,25.0
+348,Thick-billed longspur,Longspurs/Snow buntings,Calcariidae,Rhynchophanes,LC,28.0,25.0,28.0
+349,Snow bunting,Longspurs/Snow buntings,Calcariidae,Plextrophenax,LC,35.0,35.0,35.0
+350,Grasshopper sparrow,New World sparrows,Passerellidae,Ammodramus,LC,17.5,21.1,17.5
+351,Black-throated sparrow,New World sparrows,Passerellidae,Amphispiza,LC,19.5,13.0,19.5
+352,Lark sparrow,New World sparrows,Passerellidae,Chondestes,LC,28.0,28.5,28.0
+353,Lark bunting,New World sparrows,Passerellidae,Calamospiza,LC,26.5,38.3,26.5
+354,Chipping sparrow,New World sparrows,Passerellidae,Spizella,LC,21.0,13.5,21.0
+355,Clay-colored sparrow,New World sparrows,Passerellidae,Spizella,LC,19.0,12.0,19.0
+356,Field sparrow,New World sparrows,Passerellidae,Spizella,LC,20.0,12.5,20.0
+357,Brewer's sparrow,New World sparrows,Passerellidae,Spizella,LC,19.0,12.5,19.0
+358,Fox sparrow,New World sparrows,Passerellidae,Passerella,LC,27.85,35.0,27.85
+359,American tree sparrow,New World sparrows,Passerellidae,Spizelloides,LC,24.0,20.5,24.0
+360,Dark-eyed junco,New World sparrows,Passerellidae,Junco,LC,21.5,24.0,21.5
+361,White-crowned sparrow,New World sparrows,Passerellidae,Zonotrichia,LC,22.5,26.5,22.5
+362,Golden-crowned sparrow,New World sparrows,Passerellidae,Zonotrichia,LC,24.75,27.2,24.75
+363,Harris's sparrow,New World sparrows,Passerellidae,Zonotrichia,NT,27.0,37.5,27.0
+364,White-throated sparrow,New World sparrows,Passerellidae,Zonotrichia,LC,23.0,27.0,23.0
+365,Vesper sparrow,New World sparrows,Passerellidae,Pooecetes,LC,24.0,24.0,24.0
+366,LeConte's sparrow,New World sparrows,Passerellidae,Ammospiza,LC,18.0,14.0,18.0
+367,Nelson's sparrow,New World sparrows,Passerellidae,Ammospiza,LC,18.25,19.0,18.25
+368,Baird's sparrow,New World sparrows,Passerellidae,Centronyx,LC,23.0,19.0,23.0
+369,Henslow's sparrow,New World sparrows,Passerellidae,Centronyx,LC,18.0,13.0,18.0
+370,Savannah sparrow,New World sparrows,Passerellidae,Passerculus,LC,21.5,22.0,21.5
+371,Song sparrow,New World sparrows,Passerellidae,Melospiza,LC,21.7,32.45,21.7
+372,Lincoln's sparrow,New World sparrows,Passerellidae,Melospiza,LC,20.5,18.0,20.5
+373,Swamp sparrow,New World sparrows,Passerellidae,Melospiza,LC,18.5,19.0,18.5
+374,Spotted towhee,New World sparrows,Passerellidae,Pipilo,LC,28.0,35.5,28.0
+375,Eastern towhee,New World sparrows,Passerellidae,Pipilo,LC,25.0,42.5,25.0
+376,Yellow-breasted chat,Yellow-breasted chat,Icteridae,Icteria,LC,25.0,27.0,25.0
+377,Yellow-headed blackbird,Troupials/Allies,Icteridae,Xanthocephalus,LC,43.0,72.0,43.0
+378,Bobolink,Troupials/Allies,Icteridae,Dolichonyx,LC,27.0,42.5,27.0
+379,Eastern meadowlark,Troupials/Allies,Icteridae,Sturnella,NT,37.5,113.0,37.5
+380,Western meadowlark,Troupials/Allies,Icteridae,Sturnella,LC,41.0,102.0,41.0
+381,Orchard oriole,Troupials/Allies,Icteridae,Icterus,LC,25.0,22.0,25.0
+382,Bullock's oriole,Troupials/Allies,Icteridae,Icterus,LC,31.0,36.0,31.0
+383,Baltimore oriole,Troupials/Allies,Icteridae,Icterus,LC,27.5,32.15,27.5
+384,Scott's oriole,Troupials/Allies,Icteridae,Icterus,LC,32.0,36.5,32.0
+385,Red-winged blackbird,Troupials/Allies,Icteridae,Agelaius,LC,35.5,55.5,35.5
+386,Brown-headed cowbird,Troupials/Allies,Icteridae,Molothrus,LC,36.0,45.0,36.0
+387,Rusty blackbird,Troupials/Allies,Icteridae,Euphagus,VU,36.0,60.0,36.0
+388,Brewer's blackbird,Troupials/Allies,Icteridae,Euphagus,LC,39.0,63.0,39.0
+389,Common grackle,Troupials/Allies,Icteridae,Quiscalus,NT,41.0,108.0,41.0
+390,Great-tailed grackle,Troupials/Allies,Icteridae,Quiscalus,LC,53.0,190.0,53.0
+391,Ovenbird,New World warblers,Parulidae,Seiurus,LC,22.5,21.4,22.5
+392,Worm-eating warbler,New World warblers,Parulidae,Helmitheros,LC,21.0,13.0,21.0
+393,Louisiana waterthrush,New World warblers,Parulidae,Parkesia,LC,23.2,22.7,23.2
+394,Northern waterthrush,New World warblers,Parulidae,Parkesia,LC,22.5,19.0,22.5
+395,Golden-winged warbler,New World warblers,Parulidae,Vermivora,NT,20.0,9.0,20.0
+396,Blue-winged warbler,New World warblers,Parulidae,Vermivora,LC,18.25,8.5,18.25
+397,Black-and-white warbler,New World warblers,Parulidae,Mniotilta,LC,20.0,11.5,20.0
+398,Prothonotary warbler,New World warblers,Parulidae,Protonotaria,LC,22.0,12.5,22.0
+399,Tennessee warbler,New World warblers,Parulidae,Leiothlypis,LC,19.7,10.0,19.7
+400,Orange-crowned warbler,New World warblers,Parulidae,Leiothlypis,LC,18.4,9.0,18.4
+401,Nashville warbler,New World warblers,Parulidae,Leiothlypis,LC,18.5,10.3,18.5
+402,Connecticut warbler,New World warblers,Parulidae,Oporornis,LC,22.5,15.0,22.5
+403,MacGillivray's warbler,New World warblers,Parulidae,Geothlypis,LC,19.0,11.0,19.0
+404,Mourning warbler,New World warblers,Parulidae,Geothlypis,LC,18.0,12.0,18.0
+405,Kentucky warbler,New World warblers,Parulidae,Geothlypis,LC,21.0,13.5,21.0
+406,Common yellowthroat,New World warblers,Parulidae,Geothlypis,LC,17.0,9.5,17.0
+407,Hooded warbler,New World warblers,Parulidae,Setophaga,LC,17.5,10.5,17.5
+408,American redstart,New World warblers,Parulidae,Setophaga,LC,19.5,7.8,19.5
+409,Kirtland's warbler,New World warblers,Parulidae,Setophaga,NT,22.0,14.0,22.0
+410,Cape May warbler,New World warblers,Parulidae,Setophaga,LC,20.5,13.15,20.5
+411,Cerulean warbler,New World warblers,Parulidae,Setophaga,NT,20.0,9.0,20.0
+412,Northern parula,New World warblers,Parulidae,Setophaga,LC,17.0,8.0,17.0
+413,Magnolia warbler,New World warblers,Parulidae,Setophaga,LC,18.0,9.6,18.0
+414,Bay-breasted warbler,New World warblers,Parulidae,Setophaga,LC,23.0,12.5,23.0
+415,Blackburnian warbler,New World warblers,Parulidae,Setophaga,LC,21.0,10.5,21.0
+416,Yellow warbler,New World warblers,Parulidae,Setophaga,LC,19.0,16.0,19.0
+417,Chestnut-sided warbler,New World warblers,Parulidae,Setophaga,LC,18.5,10.55,18.5
+418,Blackpoll warbler,New World warblers,Parulidae,Setophaga,NT,22.5,15.35,22.5
+419,Black-throated blue warbler,New World warblers,Parulidae,Setophaga,LC,19.5,10.4,19.5
+420,Palm warbler,New World warblers,Parulidae,Setophaga,LC,20.5,10.0,20.5
+421,Pine warbler,New World warblers,Parulidae,Setophaga,LC,22.2,12.0,22.2
+422,Yellow-rumped warbler,New World warblers,Parulidae,Setophaga,LC,21.5,13.8,21.5
+423,Yellow-throated warbler,New World warblers,Parulidae,Setophaga,LC,21.0,10.0,21.0
+424,Prairie warbler,New World warblers,Parulidae,Setophaga,LC,18.0,7.7,18.0
+425,Black-throated gray warbler,New World warblers,Parulidae,Setophaga,LC,19.35,8.4,19.35
+426,Townsend's warbler,New World warblers,Parulidae,Setophaga,LC,20.0,8.8,20.0
+427,Hermit warbler,New World warblers,Parulidae,Setophaga,LC,20.0,11.0,20.0
+428,Black-throated green warbler,New World warblers,Parulidae,Setophaga,LC,18.5,9.0,18.5
+429,Canada warbler,New World warblers,Parulidae,Cardellina,LC,19.5,11.0,19.5
+430,Wilson's warbler,New World warblers,Parulidae,Cardellina,LC,15.5,7.5,15.5
+431,Painted redstart,New World warblers,Parulidae,Myioborus,LC,21.0,9.5,21.0
+432,Summer tanager,Cardinals/Allies,Cardinalidae,Piranga,LC,29.0,29.0,29.0
+433,Scarlet tanager,Cardinals/Allies,Cardinalidae,Piranga,LC,27.5,30.75,27.5
+434,Western tanager,Cardinals/Allies,Cardinalidae,Piranga,LC,29.0,30.0,29.0
+435,Northern cardinal,Cardinals/Allies,Cardinalidae,Cardinalis,LC,28.0,49.3,28.0
+436,Rose-breasted grosbeak,Cardinals/Allies,Cardinalidae,Pheucticus,LC,31.0,50.0,31.0
+437,Black-headed grosbeak,Cardinals/Allies,Cardinalidae,Pheucticus,LC,32.0,41.5,32.0
+438,Blue grosbeak,Cardinals/Allies,Cardinalidae,Passerina,LC,27.5,28.75,27.5
+439,Lazuli bunting,Cardinals/Allies,Cardinalidae,Passerina,LC,22.0,15.5,22.0
+440,Indigo bunting,Cardinals/Allies,Cardinalidae,Passerina,LC,20.5,16.299999999999997,20.5
+441,Painted bunting,Cardinals/Allies,Cardinalidae,Passerina,LC,22.0,16.0,22.0
+442,Dickcissel,Cardinals/Allies,Cardinalidae,Spiza,LC,25.4,32.0,25.4
